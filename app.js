@@ -9,5 +9,5 @@ app.get("/",(req,res)=>{
   res.send("Yeah Codepipeline is working good! GREAT")
 })
 app.listen(PORT, () => {
-  console.log("App is runnig at=>  " + PORT);
+  console.log("Apps is runnig at=>  " + PORT);
 });
